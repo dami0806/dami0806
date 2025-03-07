@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=gradient&height=300&section=header&text=Dami's%20GitHub&fontColor=3399FF&fontAlignY=45&desc=Backend%20Developer&descAlign=70)
+
 
 
 <!--
